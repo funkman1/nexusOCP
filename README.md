@@ -50,4 +50,9 @@ TBD
 
 #### **To create a read write user,** follow the same steps with the **addition of repository-view add and edit** in the applied privileges section(2.5).
 
-## 3) Create Openshift pull secret
+## 3) Expose Docker repo via route 
+
+## 4) Add the RO user to the cluster-wide pull secret
+
+
+## 5) Configure RW user in Pipeline 
