@@ -52,7 +52,12 @@ TBD
 
 ## 3) Expose Docker repo via route 
 
+**3.1)**
+
 ## 4) Add the RO user dockerconfig to the cluster-wide pull secret
 
+**4.1)**
 
 ## 5) Configure RW user dockerconfig in build Pipeline 
+
+**5.1)**
