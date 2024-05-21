@@ -48,6 +48,6 @@ TBD
 
 **2.6)** **Click save and our role has been created.**
 
-**2.7)** **To create a read write user,** follow the same steps with the **addition of repository-view add and edit** in the applied privileges section(2.5).
+#### **To create a read write user,** follow the same steps with the **addition of repository-view add and edit** in the applied privileges section(2.5).
 
 ## 3) Create Openshift pull secret
