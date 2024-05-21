@@ -52,7 +52,7 @@ TBD
 
 ## 3) Expose Docker repo via route 
 
-## 4) Add the RO user to the cluster-wide pull secret
+## 4) Add the RO user dockerconfig to the cluster-wide pull secret
 
 
-## 5) Configure RW user in Pipeline 
+## 5) Configure RW user dockerconfig in build Pipeline 
